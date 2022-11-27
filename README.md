@@ -20,5 +20,3 @@
 * ubuntu
 
 © 2022 Tetsushi Kawabata
-
-

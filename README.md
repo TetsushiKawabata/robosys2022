@@ -2,8 +2,12 @@
 ![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)  
 本リポジトリはロボットシステム学2022の練習のためのものである
 
+# インストール方法
+```
+$ git clone git@github.com:TetsushiKawabata/robosys2022.git
+$ cd robosys2022
+```
 # plusコマンド
-
 標準入力から読み込んだ数字を足す。  
 計算結果が整数の場合はint型で出力し、小数の場合はfloat型で出力する。  
   

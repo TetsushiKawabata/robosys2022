@@ -1,11 +1,11 @@
 # robosys2022
+![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)
 本リポジトリはロボットシステム学2022の練習のためのものである
 
 # plusコマンド
-![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。  
-計算結果が整数の場合はint型で出力し、少数の場合はfloat型で出力する。  
+計算結果が整数の場合はint型で出力し、小数の場合はfloat型で出力する。  
   
 入力例とその出力結果
 ```
@@ -25,4 +25,3 @@ $ seq 5 | sed 's/$/.1/' | ./plus
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-  * © 2022 Tetsushi Kawabata

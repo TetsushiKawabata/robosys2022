@@ -4,8 +4,8 @@
 # plusコマンド
 ![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
-    計算結果が整数の場合はint型で出力し、少数の場合はfloat型で出力する。
+標準入力から読み込んだ数字を足す。  
+計算結果が整数の場合はint型で出力し、少数の場合はfloat型で出力する。
 ```
 $ seq 5 | ./plus
 15                #int型で出力

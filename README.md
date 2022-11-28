@@ -1,5 +1,5 @@
 # robosys2022
-![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/TetsushiKawabata/robosys2022/actions/workflows/test.yml/badge.svg)  
 本リポジトリはロボットシステム学2022の練習のためのものである
 
 # plusコマンド
